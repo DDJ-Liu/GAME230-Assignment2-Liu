@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\Assignment 2\Source.cpp(111,102): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\Assignment 2\Source.cpp(111,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\Assignment 2\Source.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\Assignment 2\Source.cpp(298,21): warning C4018: '<': signed/unsigned mismatch
+  Assignment 2.vcxproj -> D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\Assignment 2\x64\Debug\Assignment 2.exe
