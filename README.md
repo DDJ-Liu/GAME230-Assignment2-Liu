@@ -12,3 +12,4 @@ Space Bar - Take a screenshot of the level and save it to the file "Assignment 2
 Extra feature: allow user to define the level scale at startup.  
   
 Level example:  
+![Assignment 2 Level Screenshot](https://user-images.githubusercontent.com/114141718/195000745-8593a830-bbdc-4ff8-9b89-418a959ed142.png)
